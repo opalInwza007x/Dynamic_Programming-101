@@ -14,6 +14,16 @@
       - 4.1 ตัวอย่างโจทย์ Bitmask with DP
       - 4.2 Bitmask with DP Tasks
 
+1. Fruit Fruit Fruit (ภาคโหด) 
+2. Billboard
+3. ก้านกล้วย
+4. ICPC_K_Magic_Staff
+5. Coin Change
+6. หยิบหิน
+7. cheese
+8. secret
+9. สู้เขา Courage
+
 # Dynamic programming 101
 
 ปล. นี่เป็นภาษา opal_Inwza007x ถ้าไม่เข้าใจ ก็ไปถาม [opal_Inwza007x](https://www.facebook.com/profile.php?id=100002974790342) 
