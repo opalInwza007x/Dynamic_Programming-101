@@ -2,7 +2,7 @@
 
 **Dynamic programming**
   - 1 [Ways to handle DP](https://github.com/opalInwza007x/Dynamic_Programming-101#1-ways-to-handle-dp)
-  - 2 Top-down DP
+  - 2 [Top-down DP](https://github.com/opalInwza007x/Dynamic_Programming-101/blob/main/README.md#2-top-down-dp)
       - 2.1 Coin Change
       - 2.2 Paths in a grid
       - 2.3 Grid Paths
