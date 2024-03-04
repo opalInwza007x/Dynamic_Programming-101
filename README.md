@@ -6,7 +6,7 @@
       - 2.1 Coin Change
       - 2.2 Paths in a grid
       - 2.3 Grid Paths
-  - 3 Partitioning Problem
+  - 3 [Partitioning Problem](https://github.com/opalInwza007x/Dynamic_Programming-101/blob/main/README.md#3-partitioning-problem)
       - 3.1 ตัวอย่างโจทย์ Partitioning TOI18_sausage
   - 4 Bitmask with Dynamic Programming
       - 4.1 ตัวอย่างโจทย์ Bitmask with DP
