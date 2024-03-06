@@ -494,7 +494,7 @@ ll solve(ll l) {
 | :---: | :---: | :---: | :---: |
 | [Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308) | OTOG | 4 | |
 | [TOI10_pair](https://programming.in.th/tasks/toi10_pair) | Programming.in.th | 5 | |
-| [Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892) | OTOG | 5 | YES :D |
+| [Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892) | OTOG | 5 | ${\color{green}YES }$ ${\color{green}:D}$ |
 | [TOI19_energy](https://programming.in.th/tasks/toi19_energy) | Programming.in.th | 6 | |
 | [TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga) | Programming.in.th | 7 | |
 
@@ -635,7 +635,7 @@ ll solve(ll state) {
 
 | Problem Name | Online Judge | Difficulty Level | Favourite |
 | :---: | :---: | :---: | :---: |
-| [Equipped](https://programming.in.th/tasks/1036) | Programming.in.th | 2 | YES :D |
+| [Equipped](https://programming.in.th/tasks/1036) | Programming.in.th | 2 | ${\color{green}YES }$ ${\color{green}:D}$ |
 | [Bond](https://programming.in.th/tasks/1038) | Programming.in.th | 2 |  |
 | [TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954) | OTOG | 6 |  |
 
