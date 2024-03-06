@@ -406,7 +406,7 @@ ll solve(ll x, ll y) {
 | Problem Name | Online Judge | Difficulty Level | Favourite |
 | :---: | :---: | :---: | :---: |
 | [Billboard](https://api.otog.in.th/problem/doc/306) | OTOG | 2 |  |
-| [ก้านกล้วย](https://api.otog.in.th/problem/doc/113) | OTOG | 2 |  |
+| [ก้านกล้วย](https://api.otog.in.th/problem/doc/113) | OTOG | 2 | ${\color{green}YES}$ |
 | [Tower](https://programming.in.th/tasks/1031) | Programming.in.th | 2 |  |
 | [ICPC_K_Magic_Staff](https://api.otog.in.th/problem/doc/439) | OTOG | 2 |  |
 | [MoguMogu4.0_Paths](https://api.otog.in.th/problem/doc/428) | OTOG | 2 |  |
