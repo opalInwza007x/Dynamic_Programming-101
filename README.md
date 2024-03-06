@@ -417,15 +417,15 @@ ll solve(ll x, ll y) {
 | [สร้างสระพาน](https://api.otog.in.th/problem/doc/115) | OTOG | 3 |  |
 | [กบ~~Diet ~~](https://api.otog.in.th/problem/doc/402) | OTOG | 3 |  |
 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | LeetCode | 3 |  |
-| [MoguMogu4.0_Paint](https://api.otog.in.th/problem/doc/429) | OTOG | 3 |  |
 | [Word Break](https://leetcode.com/problems/word-break/description/) | LeetCode | 3 |  |
 | [cheese](https://api.otog.in.th/problem/doc/718) | OTOG | 3 |  |
 | [บ้านของมหาเมพสมสิน](https://api.otog.in.th/problem/doc/27) | OTOG | 3 |  |
-| [เราจะไปทางไหนกันดี](https://api.otog.in.th/problem/doc/860) | OTOG | 3 | ${\color{green}YES}$ |
-| [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | LeetCode | 3 |  |
-| [secret](https://api.otog.in.th/problem/doc/803) | OTOG | 4 | ${\color{green}YES}$ |
-| [น้ำหยดลงหินทุกวัน หินมันยังกร่อน](https://programming.in.th/tasks/codecube_223) | Programming.in.th | 4 | ${\color{green}YES}$ |
+| [MoguMogu4.0_Paint](https://api.otog.in.th/problem/doc/429) | OTOG | 4 |  |
+| [เราจะไปทางไหนกันดี](https://api.otog.in.th/problem/doc/860) | OTOG | 4 | ${\color{green}YES}$ |
 | [Humanity Has Declined](https://programming.in.th/tasks/codecube_225) | Programming.in.th | 4 |  |
+| [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | LeetCode | 4 |  |
+| [น้ำหยดลงหินทุกวัน หินมันยังกร่อน](https://programming.in.th/tasks/codecube_223) | Programming.in.th | 4 | ${\color{green}YES}$ |
+| [secret](https://api.otog.in.th/problem/doc/803) | OTOG | 4 | ${\color{green}YES}$ |
 | [สู้เขา Courage](https://api.otog.in.th/problem/doc/767) | OTOG | 5 |  |
 | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/) | LeetCode | 5 |  |
 | [C1 - ของขวัญ (Gift)](https://crackncode.contest.codeforces.com/group/rn8uJP8lA7/contest/416445/attachments/download/18473/gift.pdf) | Crack 'n' Code | 5 |  |
