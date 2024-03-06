@@ -30,9 +30,20 @@
 [TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954)
 [หัวใจแตกสลาย (ภาคโหด)](https://api.otog.in.th/problem/doc/794)
 [กบ~~Diet ~~](https://api.otog.in.th/problem/doc/402)
+[รถไฟไปปูซาน (busan)](https://programming.in.th/tasks/cnc_pre19_busan)
+[TOI12_key](https://programming.in.th/tasks/toi12_key)
+[TOI16_carte](https://programming.in.th/tasks/toi16_carte)
+[TOI16_dinocell](https://programming.in.th/tasks/toi16_dinocell)
 
 [Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892)
 [Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308)
+[TOI10_pair](https://programming.in.th/tasks/toi10_pair)
+[TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga)
+[TOI19_energy](https://programming.in.th/tasks/toi19_energy)
+
+[TOI13_orchid](https://programming.in.th/tasks/toi13_orchid)
+[TOI18_garden](https://programming.in.th/tasks/toi18_garden)
+[TOI19_range](https://programming.in.th/tasks/toi19_range)
 
 # Dynamic programming 101
 
