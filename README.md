@@ -628,10 +628,13 @@ ll solve(ll state) {
 
 ### 4.2 Bitmask with DP Tasks
 
+- [OTOG](https://otog.in.th/problem)
+- [Programming.in.th](https://programming.in.th/tasks)
+
 | Problem Name | Online Judge | Difficulty Level |
 | :---: | :---: | :---: |
 | [Equipped](https://programming.in.th/tasks/1036) | Programming.in.th | 2 |
 | [Bond](https://programming.in.th/tasks/1038) | Programming.in.th | 2 |
-| [TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954) | Programming.in.th | 6 |
+| [TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954) | OTOG | 6 |
 
 
