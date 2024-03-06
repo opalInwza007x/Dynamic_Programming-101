@@ -14,13 +14,25 @@
       - 4.1 ตัวอย่างโจทย์ Bitmask with DP
       - 4.2 Bitmask with DP Tasks
 
+[บ้านของมหาเมพสมสิน](https://api.otog.in.th/problem/doc/27)
+[สร้างสระพาน](https://api.otog.in.th/problem/doc/115)
 [Billboard](https://api.otog.in.th/problem/doc/306)
+[MoguMogu4.0_Paths](https://api.otog.in.th/problem/doc/428)
+[MoguMogu4.0_Paint](https://api.otog.in.th/problem/doc/429)
 [ก้านกล้วย](https://api.otog.in.th/problem/doc/113)
 [ICPC_K_Magic_Staff](https://api.otog.in.th/problem/doc/439)
 [หยิบหิน](https://api.otog.in.th/problem/doc/120)
 [cheese](https://api.otog.in.th/problem/doc/718)
 [secret](https://api.otog.in.th/problem/doc/803)
 [สู้เขา Courage](https://api.otog.in.th/problem/doc/767)
+[Dark Penguin and Stairs (ง่ายโคตร)](https://api.otog.in.th/problem/doc/888)
+[เราจะไปทางไหนกันดี](https://api.otog.in.th/problem/doc/860)
+[TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954)
+[หัวใจแตกสลาย (ภาคโหด)](https://api.otog.in.th/problem/doc/794)
+[กบ~~Diet~~](https://api.otog.in.th/problem/doc/402)
+
+[Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892)
+[Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308)
 
 # Dynamic programming 101
 
