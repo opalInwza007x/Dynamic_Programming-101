@@ -29,7 +29,7 @@
 [เราจะไปทางไหนกันดี](https://api.otog.in.th/problem/doc/860)
 [TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954)
 [หัวใจแตกสลาย (ภาคโหด)](https://api.otog.in.th/problem/doc/794)
-[กบ~~Diet~~](https://api.otog.in.th/problem/doc/402)
+[กบ~~Diet ~~](https://api.otog.in.th/problem/doc/402)
 
 [Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892)
 [Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308)
