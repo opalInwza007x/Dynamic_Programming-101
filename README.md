@@ -14,13 +14,13 @@
       - 4.1 ตัวอย่างโจทย์ Bitmask with DP
       - 4.2 Bitmask with DP Tasks
 
-2. Billboard
-3. ก้านกล้วย
-4. ICPC_K_Magic_Staff
-6. หยิบหิน
-7. cheese
-8. secret
-9. สู้เขา Courage
+[Billboard](https://api.otog.in.th/problem/doc/306)
+[ก้านกล้วย](https://api.otog.in.th/problem/doc/113)
+[ICPC_K_Magic_Staff](https://api.otog.in.th/problem/doc/439)
+[หยิบหิน](https://api.otog.in.th/problem/doc/120)
+[cheese](https://api.otog.in.th/problem/doc/718)
+[secret](https://api.otog.in.th/problem/doc/803)
+[สู้เขา Courage](https://api.otog.in.th/problem/doc/767)
 
 # Dynamic programming 101
 
