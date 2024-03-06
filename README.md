@@ -34,6 +34,13 @@
 [TOI12_key](https://programming.in.th/tasks/toi12_key)
 [TOI16_carte](https://programming.in.th/tasks/toi16_carte)
 [TOI16_dinocell](https://programming.in.th/tasks/toi16_dinocell)
+[Tower](https://programming.in.th/tasks/1031)
+[C1 - ของขวัญ (Gift)](https://crackncode.contest.codeforces.com/group/rn8uJP8lA7/contest/416445/attachments/download/18473/gift.pdf)
+[Increasing Sequence Sum](https://api.otog.in.th/problem/doc/303)
+[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
+[Word Break](https://leetcode.com/problems/word-break/description/)
+[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
+[Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/)
 
 [Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892)
 [Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308)
@@ -41,6 +48,10 @@
 [TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga)
 [TOI19_energy](https://programming.in.th/tasks/toi19_energy)
 
+[Equipped](https://programming.in.th/tasks/1036)
+[Bond](https://programming.in.th/tasks/1038)
+
+[Increasing Subsequence](https://cses.fi/problemset/task/1145)
 [TOI13_orchid](https://programming.in.th/tasks/toi13_orchid)
 [TOI18_garden](https://programming.in.th/tasks/toi18_garden)
 [TOI19_range](https://programming.in.th/tasks/toi19_range)
