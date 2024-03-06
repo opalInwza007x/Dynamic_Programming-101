@@ -405,41 +405,38 @@ ll solve(ll x, ll y) {
 
 | Problem Name | Online Judge | Difficulty Level | Favourite |
 | :---: | :---: | :---: | :---: |
-| [Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308) | OTOG | 4 | |
-| [TOI10_pair](https://programming.in.th/tasks/toi10_pair) | Programming.in.th | 5 | |
-| [Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892) | OTOG | 5 | ${\color{green}YES}$ |
-| [TOI19_energy](https://programming.in.th/tasks/toi19_energy) | Programming.in.th | 6 | |
-| [TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga) | Programming.in.th | 7 | |
-
-[บ้านของมหาเมพสมสิน](https://api.otog.in.th/problem/doc/27)
-[สร้างสระพาน](https://api.otog.in.th/problem/doc/115)
-[Billboard](https://api.otog.in.th/problem/doc/306)
-[MoguMogu4.0_Paths](https://api.otog.in.th/problem/doc/428)
-[MoguMogu4.0_Paint](https://api.otog.in.th/problem/doc/429)
-[ก้านกล้วย](https://api.otog.in.th/problem/doc/113)
-[ICPC_K_Magic_Staff](https://api.otog.in.th/problem/doc/439)
-[หยิบหิน](https://api.otog.in.th/problem/doc/120)
-[cheese](https://api.otog.in.th/problem/doc/718)
-[secret](https://api.otog.in.th/problem/doc/803)
-[สู้เขา Courage](https://api.otog.in.th/problem/doc/767)
-[Dark Penguin and Stairs (ง่ายโคตร)](https://api.otog.in.th/problem/doc/888)
-[เราจะไปทางไหนกันดี](https://api.otog.in.th/problem/doc/860)
-[หัวใจแตกสลาย (ภาคโหด)](https://api.otog.in.th/problem/doc/794)
-[กบ~~Diet ~~](https://api.otog.in.th/problem/doc/402)
-[รถไฟไปปูซาน (busan)](https://programming.in.th/tasks/cnc_pre19_busan)
-[TOI12_key](https://programming.in.th/tasks/toi12_key)
-[TOI16_carte](https://programming.in.th/tasks/toi16_carte)
-[TOI16_dinocell](https://programming.in.th/tasks/toi16_dinocell)
-[Tower](https://programming.in.th/tasks/1031)
-[C1 - ของขวัญ (Gift)](https://crackncode.contest.codeforces.com/group/rn8uJP8lA7/contest/416445/attachments/download/18473/gift.pdf)
-[Increasing Sequence Sum](https://api.otog.in.th/problem/doc/303)
-[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
-[Word Break](https://leetcode.com/problems/word-break/description/)
-[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
-[Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/)
-[น้ำหยดลงหินทุกวัน หินมันยังกร่อน](https://programming.in.th/tasks/codecube_223)
-[Humanity Has Declined](https://programming.in.th/tasks/codecube_225)
-[Claw Machine](https://programming.in.th/tasks/codecube_227)
+| [Billboard](https://api.otog.in.th/problem/doc/306) | OTOG | 2 |  |
+| [ก้านกล้วย](https://api.otog.in.th/problem/doc/113) | OTOG | 2 |  |
+| [Tower](https://programming.in.th/tasks/1031) | Programming.in.th | 2 |  |
+| [ICPC_K_Magic_Staff](https://api.otog.in.th/problem/doc/439) | OTOG | 2 |  |
+| [MoguMogu4.0_Paths](https://api.otog.in.th/problem/doc/428) | OTOG | 2 |  |
+| [Dark Penguin and Stairs (ง่ายโคตร)](https://api.otog.in.th/problem/doc/888) | OTOG | 2 |  |
+| [Increasing Sequence Sum](https://api.otog.in.th/problem/doc/303) | OTOG | 2 |  |
+| [หัวใจแตกสลาย (ภาคโหด)](https://api.otog.in.th/problem/doc/794) | OTOG | 2 | ${\color{green}YES}$ |
+| [หยิบหิน](https://api.otog.in.th/problem/doc/120) | OTOG | 3 | ${\color{green}YES}$ |
+| [สร้างสระพาน](https://api.otog.in.th/problem/doc/115) | OTOG | 3 |  |
+| [กบ~~Diet ~~](https://api.otog.in.th/problem/doc/402) | OTOG | 3 |  |
+| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | LeetCode | 3 |  |
+| [MoguMogu4.0_Paint](https://api.otog.in.th/problem/doc/429) | OTOG | 3 |  |
+| [Word Break](https://leetcode.com/problems/word-break/description/) | LeetCode | 3 |  |
+| [cheese](https://api.otog.in.th/problem/doc/718) | OTOG | 3 |  |
+| [บ้านของมหาเมพสมสิน](https://api.otog.in.th/problem/doc/27) | OTOG | 3 |  |
+| [เราจะไปทางไหนกันดี](https://api.otog.in.th/problem/doc/860) | OTOG | 3 | ${\color{green}YES}$ |
+| [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | LeetCode | 3 |  |
+| [secret](https://api.otog.in.th/problem/doc/803) | OTOG | 4 | ${\color{green}YES}$ |
+| [น้ำหยดลงหินทุกวัน หินมันยังกร่อน](https://programming.in.th/tasks/codecube_223) | Programming.in.th | 4 | ${\color{green}YES}$ |
+| [Humanity Has Declined](https://programming.in.th/tasks/codecube_225) | Programming.in.th | 4 |  |
+| [สู้เขา Courage](https://api.otog.in.th/problem/doc/767) | OTOG | 5 |  |
+| [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/) | LeetCode | 5 |  |
+| [C1 - ของขวัญ (Gift)](https://crackncode.contest.codeforces.com/group/rn8uJP8lA7/contest/416445/attachments/download/18473/gift.pdf) | Crack 'n' Code | 5 |  |
+| [อุปกรณ์แปลภาษา](https://programming.in.th/tasks/thaco_translator) | Programming.in.th | 5 | ${\color{green}YES}$ |
+| [รถไฟไปปูซาน (busan)](https://programming.in.th/tasks/cnc_pre19_busan) | Programming.in.th | 5 | ${\color{green}YES}$ |
+| [TOI12_key](https://programming.in.th/tasks/toi12_key) | Programming.in.th | 5 |  |
+| [เกมลูกแก้ว](https://programming.in.th/tasks/thaco_gridmarble) | Programming.in.th | 6 | ${\color{green}YES}$ |
+| [Claw Machine](https://programming.in.th/tasks/codecube_227) | Programming.in.th | 6 |  |
+| [ผีถ้วยแก้ว](https://programming.in.th/tasks/thaco_ouija) | Programming.in.th | 7 |  |
+| [TOI16_carte](https://programming.in.th/tasks/toi16_carte) | Programming.in.th | 7 |  |
+| [TOI16_dinocell](https://programming.in.th/tasks/toi16_dinocell) | Programming.in.th | 7 |  |
 
 ### 3. Partitioning Problem
 
@@ -507,11 +504,11 @@ ll solve(ll l) {
 
 | Problem Name | Online Judge | Difficulty Level | Favourite |
 | :---: | :---: | :---: | :---: |
-| [Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308) | OTOG | 4 | |
-| [TOI10_pair](https://programming.in.th/tasks/toi10_pair) | Programming.in.th | 5 | |
-| [Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892) | OTOG | 5 | ${\color{green}YES}$ |
-| [TOI19_energy](https://programming.in.th/tasks/toi19_energy) | Programming.in.th | 6 | |
-| [TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga) | Programming.in.th | 7 | |
+| [Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308) | OTOG | 3 | |
+| [TOI10_pair](https://programming.in.th/tasks/toi10_pair) | Programming.in.th | 4 | |
+| [Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892) | OTOG | 4 | ${\color{green}YES}$ |
+| [TOI19_energy](https://programming.in.th/tasks/toi19_energy) | Programming.in.th | 5 | |
+| [TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga) | Programming.in.th | 6 | |
 
 ### 4. Bitmask with Dynamic Programming
 
