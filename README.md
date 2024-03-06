@@ -510,9 +510,9 @@ ll solve(ll l) {
 | [TOI19_energy](https://programming.in.th/tasks/toi19_energy) | Programming.in.th | 5 | |
 | [TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga) | Programming.in.th | 6 | |
 
-### 4. Bitmask with Dynamic Programming
+### 4. Bitmasks with Dynamic Programming
 
-### 4.1 ตัวอย่างโจทย์ Bitmask with DP
+### 4.1 ตัวอย่างโจทย์ Bitmasks with DP
 
 [source : OTOG - ไม่เลือกงาน ไม่ยากจน](https://api.otog.in.th/problem/doc/812)
 
@@ -640,7 +640,7 @@ ll solve(ll state) {
 โดยคำตอบได้จากการเรียก `solve(0);`
 
 
-### 4.2 Bitmask with DP Tasks
+### 4.2 Bitmasks with DP Tasks
 
 - [OTOG](https://otog.in.th/problem)
 - [Programming.in.th](https://programming.in.th/tasks)
