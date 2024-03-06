@@ -50,10 +50,6 @@
 [TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga)
 [TOI19_energy](https://programming.in.th/tasks/toi19_energy)
 
-[TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954)
-[Equipped](https://programming.in.th/tasks/1036)
-[Bond](https://programming.in.th/tasks/1038)
-
 [Increasing Subsequence](https://cses.fi/problemset/task/1145)
 [TOI13_orchid](https://programming.in.th/tasks/toi13_orchid)
 [TOI18_garden](https://programming.in.th/tasks/toi18_garden)
@@ -628,3 +624,14 @@ ll solve(ll state) {
 ```
 
 โดยคำตอบได้จากการเรียก `solve(0);`
+
+
+### 4.2 Bitmask with DP Tasks
+
+| Problem Name | Online Judge | Difficulty Level |
+| :---: | :---: | :---: |
+| [Equipped](https://programming.in.th/tasks/1036) | Programming.in.th | 2 |
+| [Bond](https://programming.in.th/tasks/1038) | Programming.in.th | 2 |
+| [TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954) | Programming.in.th | 6 |
+
+
