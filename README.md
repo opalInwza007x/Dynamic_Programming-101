@@ -44,14 +44,6 @@
 [Humanity Has Declined](https://programming.in.th/tasks/codecube_225)
 [Claw Machine](https://programming.in.th/tasks/codecube_227)
 
-[Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892)
-[Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308)
-[TOI10_pair](https://programming.in.th/tasks/toi10_pair)
-[TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga)
-[TOI19_energy](https://programming.in.th/tasks/toi19_energy)
-
-
-
 # Dynamic programming 101
 
 ปล. นี่เป็นภาษา opal_Inwza007x ถ้าไม่เข้าใจ ก็ไปถาม [opal_Inwza007x](https://www.facebook.com/profile.php?id=100002974790342) 
@@ -493,6 +485,19 @@ ll solve(ll l) {
 
 โดยสามารถได้คำตอบจากการเรียก `solve(0);`
 
+### 3.2 Partitioning Tasks
+
+- [OTOG](https://otog.in.th/problem)
+- [Programming.in.th](https://programming.in.th/tasks)
+
+| Problem Name | Online Judge | Difficulty Level | Favourite |
+| :---: | :---: | :---: | :---: |
+| [Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308) | OTOG | 4 | |
+| [TOI10_pair](https://programming.in.th/tasks/toi10_pair) | Programming.in.th | 5 | |
+| [Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892) | OTOG | 5 | YES :D |
+| [TOI19_energy](https://programming.in.th/tasks/toi19_energy) | Programming.in.th | 6 | |
+| [TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga) | Programming.in.th | 7 | |
+
 ### 4. Bitmask with Dynamic Programming
 
 ### 4.1 ตัวอย่างโจทย์ Bitmask with DP
@@ -628,11 +633,11 @@ ll solve(ll state) {
 - [OTOG](https://otog.in.th/problem)
 - [Programming.in.th](https://programming.in.th/tasks)
 
-| Problem Name | Online Judge | Difficulty Level |
-| :---: | :---: | :---: |
-| [Equipped](https://programming.in.th/tasks/1036) | Programming.in.th | 2 |
-| [Bond](https://programming.in.th/tasks/1038) | Programming.in.th | 2 |
-| [TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954) | OTOG | 6 |
+| Problem Name | Online Judge | Difficulty Level | Favourite |
+| :---: | :---: | :---: | :---: |
+| [Equipped](https://programming.in.th/tasks/1036) | Programming.in.th | 2 | YES :D |
+| [Bond](https://programming.in.th/tasks/1038) | Programming.in.th | 2 |  |
+| [TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954) | OTOG | 6 |  |
 
 เดี๋ยวมาเขียน LIS :D
 
