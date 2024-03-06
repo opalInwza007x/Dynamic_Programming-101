@@ -50,10 +50,7 @@
 [TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga)
 [TOI19_energy](https://programming.in.th/tasks/toi19_energy)
 
-[Increasing Subsequence](https://cses.fi/problemset/task/1145)
-[TOI13_orchid](https://programming.in.th/tasks/toi13_orchid)
-[TOI18_garden](https://programming.in.th/tasks/toi18_garden)
-[TOI19_range](https://programming.in.th/tasks/toi19_range)
+
 
 # Dynamic programming 101
 
@@ -637,4 +634,9 @@ ll solve(ll state) {
 | [Bond](https://programming.in.th/tasks/1038) | Programming.in.th | 2 |
 | [TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954) | OTOG | 6 |
 
+เดี๋ยวมาเขียน LIS :D
 
+[TOI13_orchid](https://programming.in.th/tasks/toi13_orchid)
+[Increasing Subsequence](https://cses.fi/problemset/task/1145)
+[TOI18_garden](https://programming.in.th/tasks/toi18_garden)
+[TOI19_range](https://programming.in.th/tasks/toi19_range)
