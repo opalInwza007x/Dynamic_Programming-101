@@ -155,7 +155,7 @@ __การทำงานของ Test case#2__
 
 ### 2.2 ตัวอย่างที่ 2 Paths in a grid
 
-[source : OTOG - Fruit Fruit Fruit (ภาคโหด)](https://api.otog.cf/problem/doc/290)
+[source : OTOG - Fruit Fruit Fruit (ภาคโหด)](https://api.otog.in.th/problem/doc/290)
 
 > กำหนดตารางมาให้ขนาด `n × m` โดยแต่ละช่องจะมีจำนวนเต็มใดๆ ให้หาผลรวมที่มากที่สุดเริ่มจากซ้ายบน `(0, 0)` ไปยังขวาล่าง `(n - 1, m - 1)` โดยที่สามารถเดินไปได้แค่ทิศขวากับล่างเท่านั้น
 
