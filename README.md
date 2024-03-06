@@ -10,9 +10,9 @@
   - 3 [Partitioning Problem](https://github.com/opalInwza007x/Dynamic_Programming-101/blob/main/README.md#3-partitioning-problem)
       - 3.1 ตัวอย่างโจทย์ Partitioning
       - 3.2 Partitioning Tasks
-  - 4 [Bitmask with Dynamic Programming](https://github.com/opalInwza007x/Dynamic_Programming-101/blob/main/README.md#4-bitmask-with-dynamic-programming)
-      - 4.1 ตัวอย่างโจทย์ Bitmask with DP
-      - 4.2 Bitmask with DP Tasks
+  - 4 [Bitmasks with Dynamic Programming](https://github.com/opalInwza007x/Dynamic_Programming-101/blob/main/README.md#4-bitmask-with-dynamic-programming)
+      - 4.1 ตัวอย่างโจทย์ Bitmasks with DP
+      - 4.2 Bitmasks with DP Tasks
 
 # Dynamic programming 101
 
