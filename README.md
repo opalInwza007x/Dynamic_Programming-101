@@ -27,7 +27,6 @@
 [สู้เขา Courage](https://api.otog.in.th/problem/doc/767)
 [Dark Penguin and Stairs (ง่ายโคตร)](https://api.otog.in.th/problem/doc/888)
 [เราจะไปทางไหนกันดี](https://api.otog.in.th/problem/doc/860)
-[TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954)
 [หัวใจแตกสลาย (ภาคโหด)](https://api.otog.in.th/problem/doc/794)
 [กบ~~Diet ~~](https://api.otog.in.th/problem/doc/402)
 [รถไฟไปปูซาน (busan)](https://programming.in.th/tasks/cnc_pre19_busan)
@@ -41,6 +40,9 @@
 [Word Break](https://leetcode.com/problems/word-break/description/)
 [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
 [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/)
+[น้ำหยดลงหินทุกวัน หินมันยังกร่อน](https://programming.in.th/tasks/codecube_223)
+[Humanity Has Declined](https://programming.in.th/tasks/codecube_225)
+[Claw Machine](https://programming.in.th/tasks/codecube_227)
 
 [Dark Penguin and Function (ง่ายโคตร)](https://api.otog.in.th/problem/doc/892)
 [Matrix Chain Multiplication](https://api.otog.in.th/problem/doc/308)
@@ -48,6 +50,7 @@
 [TOI11_segitiga](https://programming.in.th/tasks/toi11_segitiga)
 [TOI19_energy](https://programming.in.th/tasks/toi19_energy)
 
+[TUMSO20_kusuriya](https://api.otog.in.th/problem/doc/954)
 [Equipped](https://programming.in.th/tasks/1036)
 [Bond](https://programming.in.th/tasks/1038)
 
